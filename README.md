@@ -15,7 +15,7 @@ local port   /   forward to                      /       CDN
 To deploy this project run
 
 ```bash
-  docker run -itd -p 2087:2087 -p 2096:2096 -p 8000:8000 -p 8008:8008 -p 80:80 nginx_upstream:latest
+docker run -itd -p 2087:2087 -p 2096:2096 -p 8000:8000 -p 8008:8008 -p 80:80 nginx_upstream:latest
 ```
 or
 ```bash
