@@ -22,7 +22,7 @@ or
 docker run -itd -p 80:80  mioow/nginx_upstream:latest
 ```
 ## 🔗 Links
-[![docker](https://cdn.icon-icons.com/icons2/2530/PNG/512/dockerhub_button_icon_151899.png)](https://hub.docker.com/r/salarmg/nginx_upstream)
+[![docker](https://cdn.icon-icons.com/icons2/2530/PNG/512/dockerhub_button_icon_151899.png)](https://hub.docker.com/r/mioow/nginx_upstream)
 
 
 ## Authors
